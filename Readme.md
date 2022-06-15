@@ -57,4 +57,4 @@ Usando un link de una pagina podemos declararla para que se vea como un hipervin
 
 #### Logo de Pagina
 
-![Logo](/Extras/logo.png)
+![Logo](/Extras/LogoFormar.jpg)
