@@ -40,9 +40,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, minus. Quib
 
 <div id="referentes">
 
-### Paginas destacadas 2.0
+**Usando un link de una pagina podemos declararla para que se vea como un hipervinculo**
 
-Usando un link de una pagina podemos declararla para que se vea como un hipervinculo
+### Paginas destacadas 2.0
 
 >[*Instagram de Formar*](https://www.instagram.com/fundacionformar/ "Enlace")   
 
