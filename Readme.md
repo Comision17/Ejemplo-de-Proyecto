@@ -58,3 +58,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, minus. Quib
 #### Logo de Pagina
 
 ![Logo](/Extras/LogoFormar.jpg)
+
+### Link al tablero de trello
+>[Trello]()
